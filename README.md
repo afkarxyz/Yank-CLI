@@ -1,5 +1,26 @@
 ![image](https://github.com/G3VV/Yank/assets/46306494/26eb50df-67f1-454a-ad3f-c286d54ebe61)
 
+# Yank CLI
+
+A command-line tool to download tracks, albums, and playlists from Spotify.
+
+![383981636-d1cc1ed0-8c23-4cd2-8dd9-973119dc060d](https://github.com/user-attachments/assets/e11349cc-d20c-4788-a637-8061dfb2f87c)
+
+## Features
+
+- Download individual tracks, entire albums, or playlists
+- Option to select specific tracks from albums or playlists
+- Downloads are in MP3 format with `128 kbps` bitrate
+
+## How to Run
+
+1. Ensure you have Python installed on your system.
+2. Install the required dependencies:
+   ```
+   pip install requests
+   ```
+3. Download the `yank-cli.py` and `Code Runner.bat` files in the extended directory.
+4. Double-click on `Code Runner.bat` to run the program.
 
 # Yank
 
